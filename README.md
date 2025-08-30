@@ -15,5 +15,5 @@ It allows users to search for recipes by ingredient or meal name and displays re
 - Vanilla JavaScript
 - [TheMealDB API](https://www.themealdb.com/api.php)
 
-<img src="Expense Tracker/pictures/ExpenseTracker.png" alt="Recipe Finder preview" width="500">
+<img src="Recipe Finder/pictures/RecipeFinder.png" alt="Recipe Finder preview" width="500">
 
